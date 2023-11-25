@@ -8,11 +8,6 @@
 
 ---
 
-<p align="center">
-<a href="https://www.gnu.org/licenses/agpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue"></a> <a href="https://github.com/vishnuraghavb/EnBizCard/issues" alt="GitHub issues"><img src="https://img.shields.io/github/issues/vishnuraghavb/EnBizCard?label=Issues"></a> <a href="https://liberapay.com/vishnuraghavb/donate" alt="Liberapay"><img src="https://img.shields.io/liberapay/patrons/vishnuraghavb.svg?logo=liberapay"></a> <a href="https://www.vishnuraghav.com/donate" alt="Donate"><img src="https://img.shields.io/badge/Donate%20to-Vishnu%20Raghav-brightgreen"></a></p>
-
----
-
 ## Goals
 
 - Minimize the cost of paying third-party services to host your digital business cards
